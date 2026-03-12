@@ -71,9 +71,12 @@ flutter run
 ## 🖥️ Ekran Görüntüleri ve İş Akışı
 
 1. **Giriş Ekranı:** Kullanıcı adı ve şifre ile JWT token alınır.
-2. **Ana Akış:** Tüm dualar listelenir, beğeni sayıları anlık güncellenir.
-3. **Dua Paylaş:** Yeni içerik girilir ve otomatik olarak liste yenilenir.
-4. **Güvenli Çıkış:** Token silinerek kullanıcı giriş ekranına yönlendirilir.
+2. <img width="569" height="1090" alt="Ekran Resmi 2026-03-12 17 51 19" src="https://github.com/user-attachments/assets/08bbae32-978c-4e6b-acc9-2ba2b4045742" />
+3. **Ana Akış:** Tüm dualar listelenir, beğeni sayıları anlık güncellenir.
+4. <img width="569" height="1090" alt="Ekran Resmi 2026-03-12 17 50 33" src="https://github.com/user-attachments/assets/54b98687-4f31-4995-b758-4d8b6a584e62" />
+5. **Dua Paylaş:** Yeni içerik girilir ve otomatik olarak liste yenilenir.
+6. <img width="569" height="1090" alt="Ekran Resmi 2026-03-12 17 50 54" src="https://github.com/user-attachments/assets/af040af0-244d-485d-9dab-c656afd8811c" />
+7. **Güvenli Çıkış:** Token silinerek kullanıcı giriş ekranına yönlendirilir.
 
 ---
 
